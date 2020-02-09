@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     
-    <TableauHolder msg="Welcome to Your Vue.js App"/>
+    <TableauHolder />
   </div>
 </template>
 

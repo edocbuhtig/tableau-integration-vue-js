@@ -17,4 +17,7 @@ into `<head>` of **/public/index.html**
 https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.htm
 ```
 
+### Tutorial
+
+Read the complete [tutorial here](https://sunilk.work/how-to-integrate-salesforce-tableau-business-intelligence-and-data-visualization-tool-in-vue-js-application/)
 

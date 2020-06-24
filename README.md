@@ -1,4 +1,4 @@
-## Tableau worksheet integration inside Vuejs web app
+## How to Add Salesforce Tableau in Vuejs
 
 ## Screenshot
 
@@ -19,5 +19,5 @@ https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.h
 
 ### Tutorial
 
-Read the complete [tutorial here](https://sunilk.work/how-to-integrate-salesforce-tableau-business-intelligence-and-data-visualization-tool-in-vue-js-application/)
+[How to Add Salesforce Tableau in Vuejs](https://www.fullstackblog.in/how-to-add-salesforce-tableau-in-vuejs/)
 

@@ -19,5 +19,5 @@ https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.h
 
 ### Tutorial
 
-[How to Add Salesforce Tableau in Vuejs](https://www.fullstackblog.in/how-to-add-salesforce-tableau-in-vuejs/)
+[Tableau Vue Integration](https://www.fullstackblog.in/how-to-add-salesforce-tableau-in-vuejs/)
 
